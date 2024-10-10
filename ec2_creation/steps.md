@@ -1,5 +1,5 @@
 
-## Initialize Terraform**
+## Initialize Terraform
 
 In your terminal, navigate to the directory containing your Terraform configuration files and run:
 
